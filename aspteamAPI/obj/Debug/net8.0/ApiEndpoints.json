@@ -1,0 +1,66 @@
+[
+  {
+    "ContainingType": "aspteamAPI.Controllers.AuthController",
+    "Method": "LoginCompany",
+    "RelativePath": "api/Auth/login-company",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.AuthController",
+    "Method": "LoginJobSeeker",
+    "RelativePath": "api/Auth/login-jobseeker",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.AuthController",
+    "Method": "RegisterCompany",
+    "RelativePath": "api/Auth/register-company",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RegisterCompanyDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.AuthController",
+    "Method": "RegisterJobSeeker",
+    "RelativePath": "api/Auth/register-jobseeker",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "RegisterJobSeekerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
