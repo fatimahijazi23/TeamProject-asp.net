@@ -1,4 +1,4 @@
-﻿namespace aspteamAPI
+﻿namespace aspteamAPI.IRepositories
 {
     public interface IAuthRepository
     {
