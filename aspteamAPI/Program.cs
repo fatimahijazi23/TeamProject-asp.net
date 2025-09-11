@@ -1,9 +1,9 @@
 ﻿using aspteamAPI.Repositories;
-using aspteamAPI;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using aspteamAPI.IRepositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +13,7 @@ builder.Services.AddDbContext<aspteamAPI.context.AppDbContext>(options =>
 
 // Register Repository
 builder.Services.AddScoped<IAuthRepository, AuthRepository>();
+builder.Services.AddScoped<IJobRepository, JobRepository>();
 
 // Add Controllers
 builder.Services.AddControllers();
