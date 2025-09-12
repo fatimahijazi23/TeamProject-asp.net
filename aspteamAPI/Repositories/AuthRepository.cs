@@ -236,6 +236,8 @@ namespace aspteamAPI.Repositories
                 CompanyAccount = new CompanyAccount
                 {
                     CompanyName = dto.CompanyName,
+                    CompanySize = dto.CompanySize,  
+
                     Industry = dto.Industry,
                     CreatedAt = DateTime.UtcNow
                 }
