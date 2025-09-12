@@ -1,3 +1,4 @@
+using aspteamAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace aspteamAPI.context
@@ -10,6 +11,8 @@ namespace aspteamAPI.context
         }
 
         // DbSets for each table
+        public DbSet<BlacklistedToken> BlacklistedTokens { get; set; }
+        public DbSet<PasswordResetToken> PasswordResetTokens { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<JobSeekerAccount> JobSeekerAccounts { get; set; }
         public DbSet<CompanyAccount> CompanyAccounts { get; set; }
@@ -97,6 +100,39 @@ namespace aspteamAPI.context
                 .WithMany(c => c.Evaluations)
                 .HasForeignKey(e => e.CvId)
                 .OnDelete(DeleteBehavior.Restrict); // avoid cascade path
+
+
+
+
+
+
+
+            modelBuilder.Entity<BlacklistedToken>(entity =>
+            {
+                entity.HasIndex(e => e.TokenId).IsUnique();
+                entity.HasIndex(e => e.ExpiresAt);
+            });
+
+            // Configure PasswordResetToken
+            modelBuilder.Entity<PasswordResetToken>(entity =>
+            {
+                entity.HasIndex(e => e.Token).IsUnique();
+                entity.HasIndex(e => e.ExpiresAt);
+                entity.HasIndex(e => new { e.UserId, e.IsUsed });
+
+                entity.HasOne(e => e.User)
+                      .WithMany()
+                      .HasForeignKey(e => e.UserId)
+                      .OnDelete(DeleteBehavior.Cascade);
+            });
+            base.OnModelCreating(modelBuilder);
+
         }
+
+
+
+
+
     }
-}
+    }
+
