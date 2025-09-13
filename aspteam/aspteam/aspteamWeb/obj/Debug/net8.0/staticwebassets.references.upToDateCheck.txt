@@ -19,3 +19,4 @@ C:\Users\lenovo\Downloads\aspteam\aspteam\aspteam\aspteamAPI\obj\Debug\net8.0\st
 C:\Users\lenovo\Downloads\aspteam\aspteam\aspteam\aspteamAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\lenovo\Downloads\aspteam\aspteam\aspteam\aspteamAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\lenovo\Downloads\aspteam\aspteam\aspteam\aspteamAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\OneDrive\Desktop\dummy\TeamProject-asp.net\aspteam\aspteam\aspteamAPI\obj\Debug\net8.0\staticwebassets.build.json

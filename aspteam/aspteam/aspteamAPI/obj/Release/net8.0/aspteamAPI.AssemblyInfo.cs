@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aspteamAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04d3ed5c3997634d7b92b056f82155cbf9d7e446")]
 [assembly: System.Reflection.AssemblyProductAttribute("aspteamAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aspteamAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

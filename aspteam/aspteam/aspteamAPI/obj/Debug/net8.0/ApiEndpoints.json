@@ -62,5 +62,175 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.CompanyProfilesController",
+    "Method": "GetCompanyProfile",
+    "RelativePath": "api/CompanyProfiles/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.CompanyProfilesController",
+    "Method": "EditCompanyProfile",
+    "RelativePath": "api/CompanyProfiles/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "aspteamAPI.DTOs.UpdateCompanyProfileDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.CompanyProfilesController",
+    "Method": "DeleteCompanyAccount",
+    "RelativePath": "api/CompanyProfiles/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.CVController",
+    "Method": "AddCv",
+    "RelativePath": "api/CV",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cvDto",
+        "Type": "aspteamAPI.DTOs.CvDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.CVController",
+    "Method": "DeleteCv",
+    "RelativePath": "api/CV/{cvId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cvId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.CVController",
+    "Method": "GetCvsById",
+    "RelativePath": "api/CV/CvId{cvId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cvId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.CVController",
+    "Method": "GetCvsByUserId",
+    "RelativePath": "api/CV/userId/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.JobSeekerProfilesController",
+    "Method": "GetJobSeekerProfiles",
+    "RelativePath": "api/JobSeekerProfiles/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.JobSeekerProfilesController",
+    "Method": "EditJobSeekerProfile",
+    "RelativePath": "api/JobSeekerProfiles/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "aspteamAPI.DTOs.UpdateJobSeekerProfileDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "aspteamAPI.Controllers.JobSeekerProfilesController",
+    "Method": "DeleteJobSeekerProfile",
+    "RelativePath": "api/JobSeekerProfiles/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

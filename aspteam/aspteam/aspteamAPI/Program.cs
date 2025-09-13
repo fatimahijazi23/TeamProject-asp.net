@@ -13,6 +13,11 @@ builder.Services.AddDbContext<aspteamAPI.context.AppDbContext>(options =>
 
 // Register Repository
 builder.Services.AddScoped<IAuthRepository, AuthRepository>();
+builder.Services.AddScoped<IJobSeekerProfileRepo, JobSeekerProfileRepository>();
+builder.Services.AddScoped<ICompanyProfileRepository, CompanyProfileRepository>();
+builder.Services.AddScoped<ICvRepository, CvRepository>();
+
+
 
 // Add Controllers
 builder.Services.AddControllers();

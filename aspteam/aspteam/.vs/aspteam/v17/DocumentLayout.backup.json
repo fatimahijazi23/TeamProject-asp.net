@@ -1,106 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\dummy\\TeamProject-asp.net\\aspteam\\aspteam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\dtos\\registercompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\dtos\\registercompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\user\\onedrive\\desktop\\dummy\\teamproject-asp.net\\aspteam\\aspteam\\aspteamapi\\controllers\\cvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\controllers\\cvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\user\\onedrive\\desktop\\dummy\\teamproject-asp.net\\aspteam\\aspteam\\aspteamapi\\repositories\\cvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\repositories\\cvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\dtos\\registerjobseekerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\dtos\\registerjobseekerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\enum\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\enum\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\models\\companyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\models\\companyaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\iauthrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\iauthrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\enum\\workarrangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\enum\\workarrangement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\enum\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\enum\\experiencelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\enum\\employmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\enum\\employmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\enum\\applicationstatusbadge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\enum\\applicationstatusbadge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\models\\cv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\models\\cv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\models\\jobseekeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\models\\jobseekeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\aspteamapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\aspteamapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\migrations\\20250908161705_fixdeletebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\migrations\\20250908161705_fixdeletebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\lenovo\\downloads\\aspteam\\aspteam\\aspteam\\aspteamapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|c:\\users\\user\\onedrive\\desktop\\dummy\\teamproject-asp.net\\aspteam\\aspteam\\aspteamapi\\icvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3C97E2-C4CF-43AA-B38A-D1062F664CC5}|aspteamAPI\\aspteamAPI.csproj|solutionrelative:aspteamapi\\icvrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,335 +34,45 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IAuthRepositories.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\IAuthRepositories.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\IAuthRepositories.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\IAuthRepositories.cs",
-              "RelativeToolTip": "aspteamAPI\\IAuthRepositories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ICvRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\dummy\\TeamProject-asp.net\\aspteam\\aspteam\\aspteamAPI\\ICvRepository.cs",
+              "RelativeDocumentMoniker": "aspteamAPI\\ICvRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\dummy\\TeamProject-asp.net\\aspteam\\aspteam\\aspteamAPI\\ICvRepository.cs",
+              "RelativeToolTip": "aspteamAPI\\ICvRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T20:14:04.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Repositories\\AuthRepository.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Repositories\\AuthRepository.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Repositories\\AuthRepository.cs",
-              "RelativeToolTip": "aspteamAPI\\Repositories\\AuthRepository.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAASwC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T20:05:37.183Z",
+              "WhenOpened": "2025-09-13T06:30:20.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\DTOs\\AuthResponseDto.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\DTOs\\AuthResponseDto.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\DTOs\\AuthResponseDto.cs",
-              "RelativeToolTip": "aspteamAPI\\DTOs\\AuthResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Title": "CvRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\dummy\\TeamProject-asp.net\\aspteam\\aspteam\\aspteamAPI\\Repositories\\CvRepository.cs",
+              "RelativeDocumentMoniker": "aspteamAPI\\Repositories\\CvRepository.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\dummy\\TeamProject-asp.net\\aspteam\\aspteam\\aspteamAPI\\Repositories\\CvRepository.cs",
+              "RelativeToolTip": "aspteamAPI\\Repositories\\CvRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T20:03:37.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\DTOs\\LoginDto.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\DTOs\\LoginDto.cs",
-              "RelativeToolTip": "aspteamAPI\\DTOs\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T20:03:07.278Z",
+              "WhenOpened": "2025-09-13T06:28:47.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegisterCompanyDto.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\DTOs\\RegisterCompanyDto.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\DTOs\\RegisterCompanyDto.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\DTOs\\RegisterCompanyDto.cs",
-              "RelativeToolTip": "aspteamAPI\\DTOs\\RegisterCompanyDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Title": "CVController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\dummy\\TeamProject-asp.net\\aspteam\\aspteam\\aspteamAPI\\Controllers\\CVController.cs",
+              "RelativeDocumentMoniker": "aspteamAPI\\Controllers\\CVController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\dummy\\TeamProject-asp.net\\aspteam\\aspteam\\aspteamAPI\\Controllers\\CVController.cs",
+              "RelativeToolTip": "aspteamAPI\\Controllers\\CVController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T20:02:44.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterJobSeekerDto.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\DTOs\\RegisterJobSeekerDto.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\DTOs\\RegisterJobSeekerDto.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\DTOs\\RegisterJobSeekerDto.cs",
-              "RelativeToolTip": "aspteamAPI\\DTOs\\RegisterJobSeekerDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAzwAUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T20:01:58.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "JobSeekerAccount.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\JobSeekerAccount.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Models\\JobSeekerAccount.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\JobSeekerAccount.cs",
-              "RelativeToolTip": "aspteamAPI\\Models\\JobSeekerAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:47:59.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\User.cs",
-              "RelativeToolTip": "aspteamAPI\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:47:26.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "aspteamAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAADgvy8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:46:33.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "aspteamAPI.http",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\aspteamAPI.http",
-              "RelativeDocumentMoniker": "aspteamAPI\\aspteamAPI.http",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\aspteamAPI.http",
-              "RelativeToolTip": "aspteamAPI\\aspteamAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-09-08T19:41:26.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "aspteamAPI\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:39:19.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "aspteamAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\appsettings.json",
-              "RelativeToolTip": "aspteamAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-08T19:24:36.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "JobApplication.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\JobApplication.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Models\\JobApplication.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\JobApplication.cs",
-              "RelativeToolTip": "aspteamAPI\\Models\\JobApplication.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:09:12.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Job.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\Job.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Models\\Job.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\Job.cs",
-              "RelativeToolTip": "aspteamAPI\\Models\\Job.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:09:11.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Evaluation.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\Evaluation.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Models\\Evaluation.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\Evaluation.cs",
-              "RelativeToolTip": "aspteamAPI\\Models\\Evaluation.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:09:09.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Follow.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\Follow.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Models\\Follow.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\Follow.cs",
-              "RelativeToolTip": "aspteamAPI\\Models\\Follow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:09:08.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CV.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\CV.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Models\\CV.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\CV.cs",
-              "RelativeToolTip": "aspteamAPI\\Models\\CV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:09:06.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CompanyAccount.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\CompanyAccount.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Models\\CompanyAccount.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Models\\CompanyAccount.cs",
-              "RelativeToolTip": "aspteamAPI\\Models\\CompanyAccount.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:09:04.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Industry.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Enum\\Industry.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Enum\\Industry.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Enum\\Industry.cs",
-              "RelativeToolTip": "aspteamAPI\\Enum\\Industry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:08:57.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ExperienceLevel.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Enum\\ExperienceLevel.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Enum\\ExperienceLevel.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Enum\\ExperienceLevel.cs",
-              "RelativeToolTip": "aspteamAPI\\Enum\\ExperienceLevel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:08:56.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApplicationStatusBadge.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Enum\\ApplicationStatusBadge.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Enum\\ApplicationStatusBadge.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Enum\\ApplicationStatusBadge.cs",
-              "RelativeToolTip": "aspteamAPI\\Enum\\ApplicationStatusBadge.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:08:53.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EmploymentType.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Enum\\EmploymentType.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Enum\\EmploymentType.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Enum\\EmploymentType.cs",
-              "RelativeToolTip": "aspteamAPI\\Enum\\EmploymentType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:08:51.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WorkArrangement.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Enum\\WorkArrangement.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Enum\\WorkArrangement.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Enum\\WorkArrangement.cs",
-              "RelativeToolTip": "aspteamAPI\\Enum\\WorkArrangement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:08:48.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Program.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Program.cs",
-              "RelativeToolTip": "aspteamAPI\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T17:51:18.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20250908161705_FixDeleteBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Migrations\\20250908161705_FixDeleteBehavior.cs",
-              "RelativeDocumentMoniker": "aspteamAPI\\Migrations\\20250908161705_FixDeleteBehavior.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Downloads\\aspteam\\aspteam\\aspteam\\aspteamAPI\\Migrations\\20250908161705_FixDeleteBehavior.cs",
-              "RelativeToolTip": "aspteamAPI\\Migrations\\20250908161705_FixDeleteBehavior.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T16:17:05.624Z",
+              "WhenOpened": "2025-09-13T06:55:07.954Z",
               "EditorCaption": ""
             }
           ]
