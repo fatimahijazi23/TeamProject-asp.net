@@ -49,28 +49,22 @@ namespace aspteamAPI.Controllers
 
 
         [HttpPost("logout")]
-        [Authorize]
-        public async Task<IActionResult> Logout()
+        public async Task<IActionResult> Logout([FromQuery] int testUserId = 1)
         {
             try
             {
-                // Extract token ID from current JWT
-                var tokenId = User.FindFirst("jti")?.Value; // You need to add "jti" claim when generating JWT
-                var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
-
-                if (string.IsNullOrEmpty(tokenId) || !int.TryParse(userIdClaim, out int userId))
-                {
-                    return BadRequest("Invalid token");
-                }
+                // For development - just use test user ID
+                var userId = testUserId;
+                var tokenId = Guid.NewGuid().ToString(); // Generate fake token ID
 
                 var result = await _repo.LogoutAsync(tokenId, userId);
 
                 if (result)
                 {
-                    return Ok(new LogoutResponseDto { Success = true });
+                    return Ok(new LogoutResponseDto { Success = true, Message = "Successfully logged out" });
                 }
 
-                return StatusCode(500, new LogoutResponseDto { Success = false, Message = "Logout failed" });
+                return Ok(new LogoutResponseDto { Success = false, Message = "Logout failed" });
             }
             catch (Exception ex)
             {

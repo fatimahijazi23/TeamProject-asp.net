@@ -11,6 +11,7 @@ namespace aspteamAPI.context
         }
 
         // DbSets for each table
+        public DbSet<Notification> Notifications { get; set; }
         public DbSet<BlacklistedToken> BlacklistedTokens { get; set; }
         public DbSet<PasswordResetToken> PasswordResetTokens { get; set; }
         public DbSet<User> Users { get; set; }
@@ -102,7 +103,14 @@ namespace aspteamAPI.context
                 .OnDelete(DeleteBehavior.Restrict); // avoid cascade path
 
 
+            // Fix decimal precision for salary ranges
+            modelBuilder.Entity<Job>()
+                .Property(j => j.MinSalaryRange)
+                .HasPrecision(18, 2);
 
+            modelBuilder.Entity<Job>()
+                .Property(j => j.MaxSalaryRange)
+                .HasPrecision(18, 2);
 
 
 
